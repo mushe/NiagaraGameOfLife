@@ -1,5 +1,7 @@
 # NiagaraGameOfLife
-Game of life implementation in Unreal Engine 5 Niagara
+Game of life implementation in Unreal Engine 5 Niagara(GPU Simulation Stage)
+
+This implementation shows how to implement a grid-based simulation in Niagara
 
 Demo : 
 
